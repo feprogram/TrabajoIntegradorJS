@@ -1,0 +1,36 @@
+
+ 
+body {
+    min-height: 95%;
+    margin: 0 auto;
+}
+
+
+.banner {
+    background-image: url("./imagenes/ba1.jpg");
+    background-size: cover;
+    position: relative;
+   
+  }
+  
+.banner-info {
+    position: relative;
+  }
+
+ .banner-info {
+
+    list-style-type: white ;
+
+ }
+
+ .card-text{
+
+    text-align: justify;
+
+ }
+
+ footer {
+    padding: 30px;
+ }
+
+ 
